@@ -3,7 +3,8 @@
     "build": "webpack -d ",
     "dev":"webpack-dev-server",
     "test":"jest",
-    "api": "node ratingsAPI.js"
+    "api": "node ratingsAPI.js",
+    "license": "MIT"
   },
   "dependencies": {
     "axios": "0.16.1",
