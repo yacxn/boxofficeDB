@@ -17,6 +17,7 @@
   "env":{
     "test": {
       "plugins": [
+        "react-hot-loader/babel",
         "transform-es2015-modules-commonjs"
       ]
         }
